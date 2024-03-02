@@ -14,3 +14,5 @@ Deep learning (DL) inspired models have achieved tremendous success in locating 
 - Model trained on C4 category achieved the best detection and segmentation scores of 85.4 % and 82.1 %, respectively.
 - Model with ONNX format gained 1.25x inference speed on an edge device.
 
+### Hardware used to perform training and inference tasks:
+![Detected and segmented weed species in aerial images acquired using UAS.](https://raw.githubusercontent.com/nitin-dominic/NR/master/assets/img/WeedVision.png)
